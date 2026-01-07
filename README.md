@@ -35,7 +35,7 @@ Create a text file (`COPYRIGHT.txt` or `README.txt`) in the same directory as th
 ```
 動画ファイル名: [ファイル名]
 著作者: [著作者名]
-ライセンス: [ライセンス種類（例：CC0, CC BY 4.0, Public Domain等）]
+ライセンス: [ライセンス種類（例：CC0, CC BY 4.0等）、またはパブリックドメイン]
 出典: [元のURL等があれば記載]
 説明: [動画の簡単な説明]
 ```
@@ -44,7 +44,7 @@ Example:
 ```
 Video filename: example_video.mp4
 Author: [Author name]
-License: [License type (e.g., CC0, CC BY 4.0, Public Domain, etc.)]
+License: [License type (e.g., CC0, CC BY 4.0) or Public Domain]
 Source: [Original URL if applicable]
 Description: [Brief description of the video]
 ```
@@ -66,7 +66,7 @@ For details, please check the terms of each license.
 Azuret-Videos/
 ├── README.md              # このファイル / This file
 ├── LICENSE                # リポジトリのライセンス / Repository license
-└── videos/                # 動画ファイル用ディレクトリ（作成時）
+└── videos/                # 動画ファイル用ディレクトリ（必要に応じて作成）
     ├── category1/
     │   ├── video1.mp4
     │   └── COPYRIGHT.txt  # 動画の著作権情報
